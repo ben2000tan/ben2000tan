@@ -20,4 +20,6 @@ https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-gith
 - 💬 Ask me about Github
 - ⚡ Fun fact: I like food!
 
-![Ben's's GitHub stats](https://github-readme-stats.vercel.app/api?username=ben2000tan&count_private=true)
+![Ben's's GitHub stats](https://github-readme-stats.vercel.app/api?username=ben2000tan&count_private=true&show_icons=true)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
