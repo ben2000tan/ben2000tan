@@ -31,6 +31,6 @@ https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-gith
 </a>
  -->
  
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ben2000tan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ben's github stats" /></a> | <a href="https://github.com/Ben2000tan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ben2000tan&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ben2000tan&show_icons=true&count_private=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ben's github stats" /></a> | <a href="https://github.com/Ben2000tan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ben2000tan&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
