@@ -20,6 +20,9 @@ https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-gith
 - 💬 Ask me about Github
 - ⚡ Fun fact: I like food!
 
+Here is my [personal website](https://brave-darwin-175514.netlify.app)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/511f421c-b4bd-4246-8748-4235f3f406a3/deploy-status)](https://app.netlify.com/sites/brave-darwin-175514/deploys)
+
 <!-- ![Ben's's GitHub stats](https://github-readme-stats.vercel.app/api?username=ben2000tan&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact?&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
