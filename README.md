@@ -24,6 +24,6 @@ Here is my [personal website](https://brave-darwin-175514.netlify.app)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/511f421c-b4bd-4246-8748-4235f3f406a3/deploy-status)](https://app.netlify.com/sites/brave-darwin-175514/deploys)
 
  
-| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ben2000tan&show_icons=true&count_private=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ben's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ben2000tan&layout=compact&theme=buefy&hide_border=true?&langs_count=8" /></a> |
+| <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=ben2000tan&show_icons=true&count_private=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ben's github stats" /></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ben2000tan&layout=compact&theme=buefy&hide_border=true?&langs_count=8" /></a> |
 | ------------- | ------------- |
 
